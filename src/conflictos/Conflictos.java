@@ -16,6 +16,7 @@ public class Conflictos {
      */
     public static void main(String[] args) {
         System.out.println("Francisco");
+        ClaseFrancisco fco=new ClaseFrancisco();
     }
     
 }
