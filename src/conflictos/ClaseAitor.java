@@ -10,5 +10,5 @@ package conflictos;
  * @author Usuario
  */
 public class ClaseAitor {
-    String string = "Clase creada por Aitor :)";
+    String string = "Hola Francisco :)";
 }
